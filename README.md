@@ -1,5 +1,9 @@
 # MIT-tic-tac-toe
 Simple Tic-Tac-Toe game built using React
+
+![tictactoescreenshot](https://github.com/dlafavre/MIT-tic-tac-toe/assets/26941650/7a7d49b3-3c07-4b17-9c02-341a2bd4e2d6)
+
+
 # Future Improvements
 There are a couple of improvements I'd like to make. One feature could be to add a timer to each turn, so that players have a limited amount of time to make their move. Another feature could be to add a "best of" option, where players can choose to play a series of games and the winner is the first player to win a certain number of games.
 
